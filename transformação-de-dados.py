@@ -3,6 +3,7 @@ import zipfile
 import pandas as pd
 import os
 
+## o código só vai funcionar se o pfd do arquivo estiver na msm pasta do projeto!!
 pdf_path = "anexo_I.pdf"
 
 ## Função para trocar as abreviações pelas descrições 
